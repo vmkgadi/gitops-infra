@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: react-app
-          image: vmkgadi/gitops01:b5c4ad5530278bfaa17c20c15046025f5eb6533f
+          image: vmkgadi/gitops01:afb22ea55b6e482570d93ed27b8157018020b33a
           imagePullPolicy: Always
           ports:
             - containerPort: 80
